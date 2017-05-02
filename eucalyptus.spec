@@ -34,7 +34,7 @@
 Summary:       Eucalyptus cloud platform
 Name:          eucalyptus
 Version:       4.4.0
-Release:       0%{?build_id:.%build_id}%{?dist}
+Release:       2.1.ccr%{?dist}
 License:       GPLv3
 URL:           http://www.eucalyptus.com
 
